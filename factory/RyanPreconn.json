@@ -1,0 +1,9 @@
+{
+	"name": "RyanPreconn",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "378bc042-0cf8-4cb1-8543-422fbf8540fd",
+		"tenantId": "76af3d30-0f4d-43f6-8fb6-f16044f927c4"
+	}
+}
